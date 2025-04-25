@@ -4,5 +4,6 @@ public class HelloWorld {
       System.out.println(i);
 
     System.out.println("Doing a new commit to check Jenkins build triggered");
+    System.out.println("Doing a new commit to check Jenkins Pipeline is triggered");
   }
 }
